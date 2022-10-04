@@ -1,2 +1,2 @@
 Hello world
-[Contact](https://github.com/RonisREJI/RonisReji.github.io/blob/main/Contact.html)
+[Contact](https://github.com/RonisREJI/RonisReji.github.io/Contact.html)
